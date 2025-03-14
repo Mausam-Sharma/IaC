@@ -11,7 +11,6 @@ terraform {
   }
 
 }
-
 #Module for creating a new S3 bucket for storing pipeline artifacts
 module "s3_artifacts_bucket" {
   source                = "./modules/s3"
