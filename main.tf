@@ -1,4 +1,4 @@
-#This solution, non-production-ready template describes AWS Codepipeline based CICD Pipeline for terraform code deployment.
+##This solution, non-production-ready template describes AWS Codepipeline based CICD Pipeline for terraform code deployment.
 
 terraform {
   required_version = ">= 1.0.0"
